@@ -1,6 +1,6 @@
 package net.arver.oa.controller;
 
-import net.arver.oa.entity.ServiceResult;
+import net.arver.oa.vo.ServiceResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

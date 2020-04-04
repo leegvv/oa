@@ -1,4 +1,4 @@
-package net.arver.oa.entity;
+package net.arver.oa.vo;
 
 import lombok.Data;
 
